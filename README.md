@@ -24,4 +24,5 @@ It is a Next.js application that generates interactive tabs with inline CSS/JS a
 npm install
 npm run dev
 
-Edited by Kamalpreet Kaur - test change
+
+Edited by Kamalpreet Kaur - PR test update
