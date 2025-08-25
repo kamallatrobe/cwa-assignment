@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Build
+/.next
+/out
+
+# Misc
+.DS_Store
+.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
